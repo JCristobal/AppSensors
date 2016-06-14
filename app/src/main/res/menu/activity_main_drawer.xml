@@ -5,9 +5,11 @@
 
         <item
             android:id="@+id/nav_sensors"
+            android:icon="@drawable/ic_explore"
             android:title="Sensores" />
         <item
             android:id="@+id/nav_cicle"
+            android:icon="@drawable/ic_announcement"
             android:title="Ciclo de vida de 'sensores'" />
 
     </group>
